@@ -17,7 +17,7 @@ DRIP-seq was first used for genome-wide profiling of R-loop in human, which show
 It was later used to profile R-loop formation at transcription start and termination sites in human pluripotent [[NTERA-2|Ntera2 cells]]<ref name="Ginno et al 2013"/>.
 
 ==Workflow of DRIP-seq==
-[[File:Workflow_of_DRIP-sequencing.svg|thumbnail|right|Workflow of DRIP-seq]]
+[[File:Workflow_of_DRIP-sequencing.svg|thumbnail|right|512px|Workflow of DRIP-seq]]
 
 ===Genomic DNA extraction===
 First, [[Genomic DNA|genomic DNA]] (gDNA) is extracted from cells of interest by proteinase K treatment followed by [[phenol-chloroform extraction]] and [[Ethanol precipitation|ethanol precipitation]]. Additional zymolyase digestion is necessary for yeast cells to remove the cell wall prior to [[proteinase K]] treatment. gDNA can also be extracted with a variety of other methods, such as [[Spin column-based nucleic acid purification|column-based methods]].
