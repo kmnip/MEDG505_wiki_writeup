@@ -34,7 +34,7 @@ The magnetic beads are washed to remove any gDNA not bound to the beads by a ser
 ===Sequencing===
 For massive parallel sequencing of these fragments, the immunoprecipitated material is sonicated, size selected and ligated to barcoded [[Oligonucleotide|oligonucleotide]] adaptors for cluster enrichment and sequencing.
 
-==Computation Analysis==
+==Computational Analysis==
 To detect sites of R-loop formation, the hundreds of millions of sequencing reads from DRIP-seq are first aligned to a [[reference genome]], then peak-finding methods designed for ChIP-seq can be used to evaluate DRIP signals<ref name="Ginno et al 2012"/>. If different cocktails of restriction enzymes were used for different DRIP-seq experiments of the same sample, consensus DRIP-seq peaks are called<ref name="Ginno et al 2013"/>. Typically, peaks are compared against those from a corresponding RNase H1-treated sample, which serves as an input control<ref name="Ginno et al 2012"/><ref name="Ginno et al 2013"/>.
 
 ==Other R-loop Profiling Methods ==
