@@ -1,9 +1,7 @@
 # MEDG505_wiki_writeup
 
 ##Synopsis
-This is my repository for the Wikipedia article for UBC MEDG 505 for Spring 2015.
-
-My Wikipedia article is about [DRIP-seq](https://en.wikipedia.org/wiki/Draft:DRIP-seq).
+This is the repository for my Wikipedia article about [DRIP-seq](https://en.wikipedia.org/wiki/Draft:DRIP-seq) for UBC MEDG 505 - Spring 2015.
 
 I share the authorship of this work with Romulo Segovia, who is a UBC Medical Genetics graduate student from the Peter Stirling Lab at the BC Cancery Research Centre.
 
