@@ -1,15 +1,15 @@
 From: "Saved by Internet Explorer 11"
 Subject: DRIP-seq - Wikipedia, the free encyclopedia
-Date: Thu, 26 Feb 2015 22:11:37 -0800
+Date: Thu, 26 Feb 2015 23:49:50 -0800
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----=_NextPart_000_0000_01D05211.303696F0"
+	boundary="----=_NextPart_000_0000_01D0521E.E9498370"
 X-MimeOLE: Produced By Microsoft MimeOLE V6.3.9600.17631
 
 This is a multi-part message in MIME format.
 
-------=_NextPart_000_0000_01D05211.303696F0
+------=_NextPart_000_0000_01D0521E.E9498370
 Content-Type: text/html;
 	charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
@@ -73,7 +73,7 @@ amp;*"></SCRIPT>
 <SCRIPT>if(window.mw){=0A=
 mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":fal=
 se,"wgNamespaceNumber":0,"wgPageName":"DRIP-seq","wgTitle":"DRIP-seq","wg=
-CurRevisionId":649050061,"wgRevisionId":649050061,"wgArticleId":45461558,=
+CurRevisionId":649056408,"wgRevisionId":649056408,"wgArticleId":45461558,=
 "wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":nu=
 ll,"wgUserGroups":["*"],"wgCategories":["Molecular biology =
 techniques","Biotechnology","DNA","RNA"],"wgBreakFrames":false,"wgPageCon=
@@ -88,11 +88,11 @@ wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],=
 e,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaVi=
 ewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{=
 "pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"",=
-"wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-c=
-a"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"statu=
-s":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgC=
-ategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcoun=
-t\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});=0A=
+"wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":[],"wg=
+ULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"le=
+vels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategory=
+TreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":tru=
+e,\"namespaces\":false}","wgNoticeProject":"wikipedia"});=0A=
 }</SCRIPT>
 
 <SCRIPT>if(window.mw){=0A=
@@ -245,7 +245,7 @@ _mAb.svg/600px-R_loop_S9.6_mAb.svg.png 1.5x, =
 <DIV class=3D"magnify"><A title=3D"Enlarge" class=3D"internal" =
 href=3D"http://en.wikipedia.org/wiki/File:R_loop_S9.6_mAb.svg"></A></DIV>=
 
-R loop and S9.6 monoclonal antibody</DIV></DIV></DIV>
+R-loop and S9.6 monoclonal antibody</DIV></DIV></DIV>
 <P>R-loop is a three-stranded <A title=3D"Nucleic acid" =
 href=3D"http://en.wikipedia.org/wiki/Nucleic_acid">nucleic=20
 acid</A> structure, which consists of a DNA-RNA hybrid duplex and a =
@@ -277,8 +277,7 @@ AN>[</SPAN>3<SPAN>]</SPAN></A></SUP><SUP=20
 class=3D"reference" id=3D"cite_ref-Chaudhuri_et_al_4-0"><A =
 href=3D"http://en.wikipedia.org/wiki/DRIP-seq#cite_note-Chaudhuri_et_al-4=
 "><SPAN>[</SPAN>4<SPAN>]</SPAN></A></SUP>.=20
-They have been found in a broad range of species, ranging from bacteria =
-to=20
+They have been found in a variety of species, ranging from bacteria to=20
 mammals<SUP class=3D"reference" id=3D"cite_ref-Aguilera_2-2"><A =
 href=3D"http://en.wikipedia.org/wiki/DRIP-seq#cite_note-Aguilera-2"><SPAN=
 >[</SPAN>2<SPAN>]</SPAN></A></SUP>.=20
@@ -364,18 +363,20 @@ and Current Research"=20
 href=3D"http://en.wikipedia.org/w/index.php?title=3DDRIP-seq&amp;action=3D=
 edit&amp;section=3D2">edit</A><SPAN=20
 class=3D"mw-editsection-bracket">]</SPAN></SPAN></H2>
-<P>DRIP-seq is mainly used for genome-wide mapping of R-loops. The=20
-identification of the genomic regions where R-loops occur allows the =
-study of=20
-diverse cellular events, such as the function of R-loop formation at =
-specific=20
-regions, the characterization of these regions, and the impact on gene=20
-expression. It can also be used to study the influence of R-loops in =
-other=20
-processes like DNA replication and synthesis. Indirectly, DRIP-seq can =
-be=20
-performed on mutant cell lines deficient in genes involved in R-loop=20
-resolution<SUP class=3D"reference" id=3D"cite_ref-Chan_et_al_3-3"><A =
+<P>DRIP-seq is mainly used for genome-wide mapping of R-loops. =
+Identifying=20
+R-loop formation sites allows the study of diverse cellular events, such =
+as the=20
+function of R-loop formation at specific regions, the characterization =
+of these=20
+regions, and the impact on gene expression. It can also be used to study =
+the=20
+influence of R-loops in other processes like DNA replication and =
+synthesis.=20
+Indirectly, DRIP-seq can be performed on mutant cell lines deficient in =
+genes=20
+involved in R-loop resolution<SUP class=3D"reference"=20
+id=3D"cite_ref-Chan_et_al_3-3"><A =
 href=3D"http://en.wikipedia.org/wiki/DRIP-seq#cite_note-Chan_et_al-3"><SP=
 AN>[</SPAN>3<SPAN>]</SPAN></A></SUP>.=20
 These types of studies provide information about the roles of these =
@@ -383,8 +384,8 @@ genes in=20
 suppressing DNA-RNA formation and about the significance of R-loops in =
 genome=20
 instability.</P>
-<P>DRIP-seq was first used for genome-wide profiling of R-loop in human, =
-which=20
+<P>DRIP-seq was first used for genome-wide profiling of R-loops in =
+humans, which=20
 showed widespread R-loop formation at CpG island promoters<SUP =
 class=3D"reference"=20
 id=3D"cite_ref-Ginno_et_al_2012_1-5"><A =
@@ -678,8 +679,8 @@ href=3D"http://en.wikipedia.org/wiki/DRIP-seq#cite_note-Ginno_et_al_2012-=
 1"><SPAN>[</SPAN>1<SPAN>]</SPAN></A></SUP>:=20
   This method shares very similar principles of DRIP-seq except for the =
 use of=20
-  MBP-RNASEH1 enudonuclease instead of the S9.6 mAb for R-loops =
-recovery.=20
+  MBP-RNASEH1 endonuclease instead of the S9.6 mAb for R-loops recovery. =
+
   MBP-RNASEH1 provides an alternative to S9.6 mAb when an additional =
 capture=20
   assay is needed, however over-expression of this endonuclease may =
@@ -699,11 +700,11 @@ of=20
 in=20
   DRIP-chip is hybridized to a <A title=3D"Microarray" =
 href=3D"http://en.wikipedia.org/wiki/Microarray">microarray</A>.=20
-  The rapid obtention of the data is an advantage comparing to DRIP-seq. =
-The=20
-  number of probes on the chip microarrays and no DNA sequence =
-information are=20
-  the limiting factors of this technique.</LI></UL>
+  An advantage of DRIP-chip over DRIP-seq is the rapid obtention of the =
+data.=20
+  The limiting factors of this technique are the number of probes on the =
+chip=20
+  microarrays and absence of DNA sequence information.</LI></UL>
 <H2><SPAN class=3D"mw-headline" id=3D"See_also">See also</SPAN><SPAN =
 class=3D"mw-editsection"><SPAN=20
 class=3D"mw-editsection-bracket">[</SPAN><A title=3D"Edit section: See =
@@ -1327,25 +1328,25 @@ al_fmt=3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3D8"=20
   class=3D"Z3988"><SPAN=20
 style=3D"display: none;">&nbsp;</SPAN></SPAN></SPAN></LI></OL></DIV><!-- =0A=
 NewPP limit report=0A=
-Parsed by mw1219=0A=
+Parsed by mw1216=0A=
 CPU time usage: 0.220 seconds=0A=
-Real time usage: 0.245 seconds=0A=
+Real time usage: 0.238 seconds=0A=
 Preprocessor visited node count: 1465/1000000=0A=
 Preprocessor generated node count: 0/1500000=0A=
 Post=E2=80=90expand include size: 32555/2097152 bytes=0A=
 Template argument size: 0/2097152 bytes=0A=
 Highest expansion depth: 4/40=0A=
 Expensive parser function count: 0/500=0A=
-Lua time usage: 0.061/10.000 seconds=0A=
+Lua time usage: 0.060/10.000 seconds=0A=
 Lua memory usage: 2.2 MB/50 MB=0A=
 --> <!-- =0A=
 Transclusion expansion time report (%,ms,calls,template)=0A=
-100.00%  138.794      1 - Template:Reflist=0A=
-100.00%  138.794      1 - -total=0A=
- 69.04%   95.825     17 - Template:Cite_journal=0A=
+100.00%  134.980      1 - Template:Reflist=0A=
+100.00%  134.980      1 - -total=0A=
+ 68.31%   92.211     17 - Template:Cite_journal=0A=
 --> <!-- Saved in parser cache with key =
-enwiki:pcache:idhash:45461558-0!*!0!!en!4!* and timestamp 20150227061027 =
-and revision id 649050061=0A=
+enwiki:pcache:idhash:45461558-0!*!0!!en!4!* and timestamp 20150227074211 =
+and revision id 649056408=0A=
  -->=20
 <NOSCRIPT>&lt;img=20
 src=3D"//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=3D1x1"=
@@ -1355,8 +1356,8 @@ absolute;"=20
 /&gt;</NOSCRIPT></DIV>
 <DIV class=3D"printfooter">						Retrieved from "<A dir=3D"ltr" =
 href=3D"http://en.wikipedia.org/w/index.php?title=3DDRIP-seq&amp;oldid=3D=
-649050061">http://en.wikipedia.org/w/index.php?title=3DDRIP-seq&amp;oldid=
-=3D649050061</A>"					</DIV>
+649056408">http://en.wikipedia.org/w/index.php?title=3DDRIP-seq&amp;oldid=
+=3D649056408</A>"					</DIV>
 <DIV class=3D"catlinks" id=3D"catlinks">
 <DIV class=3D"mw-normal-catlinks" id=3D"mw-normal-catlinks"><A =
 title=3D"Help:Category"=20
@@ -1542,7 +1543,7 @@ pages</A></LI>
 the page"=20
   =
 href=3D"http://en.wikipedia.org/w/index.php?title=3DDRIP-seq&amp;oldid=3D=
-649050061">Permanent=20
+649056408">Permanent=20
   link</A></LI>
   <LI id=3D"t-info"><A title=3D"More information about this page" =
 href=3D"http://en.wikipedia.org/w/index.php?title=3DDRIP-seq&amp;action=3D=
@@ -1550,7 +1551,7 @@ info">Page=20
   information</A></LI>
   <LI id=3D"t-cite"><A title=3D"Information on how to cite this page" =
 href=3D"http://en.wikipedia.org/w/index.php?title=3DSpecial:CiteThisPage&=
-amp;page=3DDRIP-seq&amp;id=3D649050061">Cite=20
+amp;page=3DDRIP-seq&amp;id=3D649056408">Cite=20
   this page</A></LI></UL></DIV></DIV>
 <DIV class=3D"portal" id=3D"p-coll-print_export" role=3D"navigation" =
 aria-labelledby=3D"p-coll-print_export-label">
@@ -1563,7 +1564,7 @@ cmd=3Dbook_creator&amp;referer=3DDRIP-seq">Create=20
   a book</A></LI>
   <LI id=3D"coll-download-as-rdf2latex"><A =
 href=3D"http://en.wikipedia.org/w/index.php?title=3DSpecial:Book&amp;book=
-cmd=3Drender_article&amp;arttitle=3DDRIP-seq&amp;oldid=3D649050061&amp;wr=
+cmd=3Drender_article&amp;arttitle=3DDRIP-seq&amp;oldid=3D649056408&amp;wr=
 iter=3Drdf2latex">Download=20
   as PDF</A></LI>
   <LI id=3D"t-print"><A title=3D"Printable version of this page [p]" =
@@ -1585,7 +1586,7 @@ href=3D"http://en.wikipedia.org/wiki/DRIP-seq#"></A></LI></UL></DIV></DIV=
 <UL id=3D"footer-info">
   <LI id=3D"footer-info-lastmod"> This page was last modified on 27 =
 February 2015,=20
-  at 06:10.</LI>
+  at 07:42.</LI>
   <LI id=3D"footer-info-copyright">Text is available under the <A =
 href=3D"http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_A=
 ttribution-ShareAlike_3.0_Unported_License"=20
@@ -1671,11 +1672,11 @@ kin=3Dvector\u0026amp;*\"\u003E\u003C/script\u003E");=0A=
 }</SCRIPT>
 =20
 <SCRIPT>if(window.mw){=0A=
-mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1103"});=0A=
+mw.config.set({"wgBackendResponseTime":179,"wgHostname":"mw1049"});=0A=
 }</SCRIPT>
 	 </BODY></HTML>
 
-------=_NextPart_000_0000_01D05211.303696F0
+------=_NextPart_000_0000_01D0521E.E9498370
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/R_loop_S9.6_mAb.svg/400px-R_loop_S9.6_mAb.svg.png
@@ -2227,7 +2228,7 @@ pTnjmM1s5s1F97Hce7IPZKqmcwRyG8rR9wGvRdtuoniObwTdwJS8GWgDagTT6SBQJxVXQ51Ldn15
 zTAzM/uPIw8zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMz
 MzMzMzMzMzMzMzMzMzMzMzMzMzOzafcvhH/N9HT3v8oAAAAASUVORK5CYII=
 
-------=_NextPart_000_0000_01D05211.303696F0
+------=_NextPart_000_0000_01D0521E.E9498370
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: http://upload.wikimedia.org/wikipedia/en/thumb/4/45/Workflow_of_DRIP-sequencing.svg/550px-Workflow_of_DRIP-sequencing.svg.png
@@ -3062,7 +3063,7 @@ McYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHG
 GGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhj
 jDHGGGOS5P8DIb4ne8tfAYgAAAAASUVORK5CYII=
 
-------=_NextPart_000_0000_01D05211.303696F0
+------=_NextPart_000_0000_01D0521E.E9498370
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: http://bits.wikimedia.org/images/wikimedia-button.png
@@ -3111,7 +3112,7 @@ NzgjX7MVgM3UFh9y3sTelgJTsFXgmDlTwG+D8A3hTWwRRfMFGGwVYutilE5EOLIuaO4CS3yPEGwn
 FLm5uddxrgdx5I4FQHMTGIIlmIKtQnzT/FhoFB8msL2w9vF4QTMXGIIlmIIt/wOg+Ai9RChRSI8P
 0guak/TfseT/rvwv0uUkfxxBkWcAAAAASUVORK5CYII=
 
-------=_NextPart_000_0000_01D05211.303696F0
+------=_NextPart_000_0000_01D0521E.E9498370
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: http://bits.wikimedia.org/static-1.25wmf18/resources/assets/poweredby_mediawiki_88x31.png
@@ -3179,7 +3180,7 @@ oReJRbr4oZHUFqm2tlZUVFSQ9Ay+P85ht9vZt2/fcW3aOb53i1BjsZhf13X39+eN55AkybSHpLZB
 ORKJfNHb22uWtCzLnB3nSGpoatnT00NS2/XSmjVrKoAtZWVlmQUFBVitVs6cc8TjcTo6OmhsbBwA
 ZkgAy5cvLwBeBi4DRnA2nKMb2Ao8ePvtt3f8Hzi+11yfLqsyAAAAAElFTkSuQmCC
 
-------=_NextPart_000_0000_01D05211.303696F0
+------=_NextPart_000_0000_01D0521E.E9498370
 Content-Type: application/octet-stream
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init%2Cnolanglinks&only=styles&skin=vector&*
@@ -6625,7 +6626,7 @@ div.after-portlet-lang::after {
 	display: none;
 }
 
-------=_NextPart_000_0000_01D05211.303696F0
+------=_NextPart_000_0000_01D0521E.E9498370
 Content-Type: application/octet-stream
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector&*
@@ -8204,7 +8205,7 @@ table.collapsible tr {
 }
 }
 
-------=_NextPart_000_0000_01D05211.303696F0
+------=_NextPart_000_0000_01D0521E.E9498370
 Content-Type: application/octet-stream
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector&*
@@ -8534,7 +8535,7 @@ t.refToolbarBase",1424361712],["ext.gadget.edittop",1424277513,[7]],["ext=
 ,118]],["ext.gadget.purgetab",1424884874,[121]],["ext.gadget.CollapsibleN=
 av",1424282491,[29,50]],["ext.gadget.MenuTabsToggle",1424363758,[29]],["e=
 xt.gadget.dropdown-menus",1424364994],["ext.gadget.dropdown-menus-vector"=
-,1424412435],["ext.gadget.dropdown-menus-nonvector",1424358558],["ext.gad=
+,1425020629],["ext.gadget.dropdown-menus-nonvector",1424358558],["ext.gad=
 get.addsection-plus",1424360472],["ext.gadget.OldDiff",1424312063],["ext.=
 gadget.NoAnimations",1424360613],["ext.gadget.disablesuggestions",1424360=
 613],["ext.gadget.NoSmallFonts",1423761164],["ext.gadget.topalert",142436=
@@ -9295,6 +9296,6 @@ src=3D\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=3Dfalse\u002=
 pts\u0026amp;skin=3Dvector\u0026amp;version=3D20150225T221331Z\"\u003E\u0=
 03C/script\u003E");};=0A=
 /* cache key: =
-enwiki:resourceloader:filter:minify-js:7:62f853a6706364769804da8723465c6e=
+enwiki:resourceloader:filter:minify-js:7:94c693cf4d7a4ead7fd06773643908f3=
  */
-------=_NextPart_000_0000_01D05211.303696F0--
+------=_NextPart_000_0000_01D0521E.E9498370--
